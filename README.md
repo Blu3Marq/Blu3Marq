@@ -22,10 +22,7 @@ I am currently working as a **SOC Analyst**, focusing on threat detection, incid
 - 🏅 **Security Analyst Level 1 (SAL1)**
 - 🏅 **Blue Team Level 1 (BTL1)**
 - 🏅 **Junior Penetration Tester – TryHackMe**
-- 📚 In progress / planned:
-  - Blue Team Level 2 (BTL2)
-  - CompTIA Security+
-  - DFIR & Detection Engineering–focused certifications
+
 
 ---
 
