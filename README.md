@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Piotr!
+# 👋 Hi, I'm BlueMarq!
 
 Welcome to my GitHub profile! 👨‍💻  
 This repository serves as my **cybersecurity portfolio**, where I share labs, tools, scripts, and research related mainly to **Blue Team, SOC operations, and DFIR**.
@@ -14,7 +14,7 @@ I am currently working as a **SOC Analyst**, focusing on threat detection, incid
 | 🌐 LinkedIn | https://www.linkedin.com/in/piotr-marciniak-136937238/ |
 | 🧠 TryHackMe | https://tryhackme.com/p/BlueMarq |
 | 🛡️ BlueTeamLabs Online (BTLO) | https://blueteamlabs.online/home/user/84943eda2802ff181d2dce |
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/BlueMarq.png" alt="Your Image Badge" />
 ---
 
 ## 🎓 Certifications
