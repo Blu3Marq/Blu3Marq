@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm BlueMarq!
 
 Welcome to my GitHub profile! 👨‍💻  
@@ -17,13 +16,21 @@ I am currently working as a **Cybersecurity Administrator**, focusing on improvi
 | 🛡️ BlueTeamLabs Online (BTLO) | [BlueMarq](https://blueteamlabs.online/home/user/84943eda2802ff181d2dce) |
 | 🧬 CyberDefenders | [BlueMarq](https://cyberdefenders.org/p/BlueMarq) |
 
-<br>
+---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/BlueMarq.png" alt="TryHackMe Badge" />
+## 🏅 Profile Badges
 
-<br>
+<p align="center">
+  <a href="https://tryhackme.com/p/BlueMarq">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/BlueMarq.png" alt="TryHackMe Badge" />
+  </a>
+</p>
 
-<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/BlueMarq.png" width="300" alt="CyberDefenders Badge" />
+<p align="center">
+  <a href="https://cyberdefenders.org/p/BlueMarq">
+    <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/BlueMarq.png" width="300" alt="CyberDefenders Badge" />
+  </a>
+</p>
 
 ---
 
@@ -76,4 +83,3 @@ My long-term goal is to grow into a:
 ## 🤝 Contact
 
 If you'd like to talk about cybersecurity, projects, writeups, or collaboration — feel free to reach out via LinkedIn.
-```
